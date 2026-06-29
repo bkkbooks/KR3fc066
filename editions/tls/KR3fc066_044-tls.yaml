@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方乘三根得十二立方與實相減恰盡餘多九平方爲第二次實復以三根除多九平方得多三根以多三根乘三根得多九平方與實相減恰盡是爲四平方多三根合問正法以一根爲除數今變用三根者取淺顯耳假如八立方多八平方多二根少四眞數以二平方多三根多二眞數除之問得若干答曰四根少二眞數法以二平方多三根多二眞數除八立方多八平方
+  hash: sha256:2bb00db2a3e07283a81ebbe972f5bd0c276f794d89c29709acf32dc4c90be51d
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:af682116e7d4d9cf4a9566a23a2c9a274759dcaf0dbcf652b69aaebd34e71810

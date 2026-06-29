@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 干答曰一平方少三根多二真數法以少二真數乘少一真數得多二真數以少二真數乘一根得少二根少與多乘又以一根乘少一真數得少一根多與少乘以一根乘一根得一平方相併是為一平方少三根多二真數合問此末位少與少乘而首位恆為多故首位則多與多乘首末又多少相乘之法也詳上假如四立方少二根少一真數以二平方少二真數乘之問得若干答曰八四乘方少十二立方少二平方多四根多二真數
+  hash: sha256:3595f395ada2bfc99fd0708d41d63efd80ff626fff7fa14528254a14766f7ab4
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:f6ae70c6e070b8eb7fd73467ce7498a681fab4b8043f39bfddb004fa2a161aad

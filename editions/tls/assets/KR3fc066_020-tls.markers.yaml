@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/markers/20
+seq: 20
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc066_tls_001-p10.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup8, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR3fc066_tls_001-p10.s2}
+  - {type: line-break, offset: 2, content: '', id: KX_2_dup10, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 22, content: '', id: KR3fc066_tls_001-p10.s3}
+  - {type: line-break, offset: 22, content: '', id: KX_3_dup10, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR3fc066_tls_001-p10.s7}
+  - {type: line-break, offset: 30, content: '', id: KX_7_dup6, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR3fc066_tls_001-p10.s8}
+  - {type: line-break, offset: 50, content: '', id: KX_8_dup8, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3fc066_tls_001-p10.s10}
+  - {type: line-break, offset: 64, content: '', id: KX_10_dup8, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 82, content: '', id: KR3fc066_tls_001-p10.s11}
+  - {type: line-break, offset: 82, content: '', id: KX_11_dup8, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR3fc066_tls_001-p10.s12}
+  - {type: line-break, offset: 102, content: '', id: KX_12_dup8, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 110, content: '', id: KR3fc066_tls_001-p10.s16}
+  - {type: line-break, offset: 110, content: '', id: KX_16_dup7, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR3fc066_tls_001-p10.s17}
+  - {type: line-break, offset: 130, content: '', id: KX_17_dup6, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  back: []
+hash: sha256:67add405a79ac451af5713ad3ede8268671df71b374cc461f8dcce2785dabb28

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘法假如三根多二真數以三真數乘之問得若干答曰九根多六真數法以三真數乘二真數得多六真數以三真數乘三根得九根是為九根多六真數合問此多與多乘得數皆為多之法也假如四根多二真數以二根多三真數乘之問得若干答曰八平方多十六根多六真數
+  hash: sha256:5f1ad0851b2c449118f8869a8456b87f100d2cfd9f06e21ff23d9e659a39d3b0
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:604e8e1f683fb87db052380b8618928ff069d469e7b52c8b30f215798fc77718

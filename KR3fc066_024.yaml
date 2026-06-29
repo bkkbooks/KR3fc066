@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法以六平方內減五平方餘一平方原三根內不能減四根乃于減數四根內反減三根餘一根即變為多是為一平方多一根合問此少與少減原數小于減數反減原數而減餘變為多之法也假如三立方多四平方內減二立方少一平方問餘若干答曰一立方多五平方法以三立方內減二立方餘一立方以四平方減一平方應餘三平方今多少兩數不同故相加得五平方因原數為多故得數亦為多是為一立方多五平方合問此多與少減應相加而原數為多故相加後亦
+  hash: sha256:6d374b6c0b14bc82b59c6997edf704ab4c6ab4a5fa4ba1e247c7d7527f53cc16
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:459211b6fd57ec70bfb55f79cb1deea52b862a6a233ca12d41c9a362a9e4469c

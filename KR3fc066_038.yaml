@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法以少二真數乘少一真數得多二真數以少二真數乘少二根得多四根以少二真數乘空平方仍得平方空位以少二真數乘四立方得少八立方又以空根數乘少一真數得空根數以空根數乘少二根得空平方以空根數乘空平方得空立方以空根數乘四立方得空三乘方又以二平方乘少一真數得少二平方以二平方乘少二根得少四立方以二平方乘空平方得空三乘方以二平方乘四立方得八
+  hash: sha256:318bc3d1a379484d7db026b2000b24687276f40b2f1684371e01f3e9236da6d0
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:69969af2569d38b23972a28541593d5af51928fd715cab8d713be01a2a792e15

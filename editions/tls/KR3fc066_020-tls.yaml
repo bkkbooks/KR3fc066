@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 減法假如四平方多五根內減二平方多二根問餘若干答曰二平方多三根法以四平方內減二平方餘二平方以五根內減二根餘三根是爲二平方多三根合問此多與多減原數大于減數減餘爲多之法也假如四平方少三根內減三平方少二根問餘若干答曰一平方少一根法以四平方內減三平方餘一平方以三根內減二根餘一根是爲一平方少一根合問
+  hash: sha256:7c5d71d7e4d37b30168d1d78f48b7b78f4a0b7e58de58397dc9a02056aa52e4a
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:31a4ff51d956ba2dfd400fa507002da5339f7298e4c33924c07f96250a7271fc

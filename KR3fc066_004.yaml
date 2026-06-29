@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 疏其例輒以鄙意取加減乘除四端冠以用號綴以定位表縷析條分各撮其要歸於淺顯說取易明庶學者不致眯目或亦啓蒙之一助也夫南豐劉衡
+  hash: sha256:1f7cc2d5ca75cff579aa2faf12b946c74a7aff42f8e8a3c2c5e10b8284cdbce6
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:f57ebf1f8c9ac4691cd32cdaedff2477b0dd9a0323f9d6263dec2e744352c4ea

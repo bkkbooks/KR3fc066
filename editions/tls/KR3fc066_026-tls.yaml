@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲多之法也假如五立方少三平方內減三立方多二平方問餘若干答曰二立方少五平方法以五立方內減三立方餘二立方以三平方減二平方應餘一平方今多少兩數不同故相加得五平方因原數爲少故得數亦爲少是爲二立方少五平方合問此少與多減應相加而原數爲少故相加亦爲少之法也假如四立方多六平方內減二立方多三平方多三根問餘若干答曰二立方多三平方少三根
+  hash: sha256:4a0c07bec864ef68eb3b6ac79366e21fae5f162159cf793149073d08d1038bc2
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:5f9c6746ee7541ec3a61a67c6a7aa36c4e1e60f6c446f91e96b6875a0f95a76b

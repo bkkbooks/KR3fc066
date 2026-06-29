@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰三根少二眞數法以三平方少二根少三眞數除九立方少十二平方少五根多六眞數得三根以三根乘少三眞數得少九根以三根乘少二根得少六平方以三根乘三平方得九立方是第一次除數共爲九立方少六平方少九根與實相減餘少六平方多四根多六眞數爲第二次實復以三平方少二根少三眞數除少六平方多四根多六眞數得少二眞數以少二眞數乘少三眞數得多六眞數以少二眞數乘少二根得多
+  hash: sha256:6a4f3367e406756615ef2e411af61fe60606441fdcdd88231ed3293ba9bc7501
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:6a7df9668a02ebdc84522dbf4c5083ccfd003c55d5fc769201373cd88dc18ecb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法以四平方與二平方相加得六平方以四根與三根相加應該七根今多少兩數不同故相減餘一根因多數為四根比少數三根大故為多是為六平方多一根合問此多與少加多數大為多之法也假如二平方少三根與一平方多二根相加問該若干答曰三平方少一根法以二平方與一平方相加得三平方以三根與二根相加應該五根今多少兩數不同故相減餘一根因少數為三根比多數二根大故為少是為三平方少一根合問此少與多加少數大為少之法也
+  hash: sha256:a7a52dc933fc4af6e96c6d7769667c3a16978574b5299e0a9fabfde6addd4a85
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:e3ef5e766b58ec0acf96df244c047b5f09b8f59a2e7bf80be5fb3f244d07d5b1

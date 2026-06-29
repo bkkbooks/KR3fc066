@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四根以少二眞數乘三平方得少六平方是第二次除數共爲少六平方多四根多六眞數與實相減恰盡是爲三根少二眞數合問此法實數雖有多有少然第二次實之首位爲少故定第二次得數爲少也
+  hash: sha256:ac60f500072613b72c08e60e70d077978736c2577dcbd109a618f2eed3e784d4
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:b041b806f49fb76a4f69239591527034285de1f654d1da306791cedf73fbf3af

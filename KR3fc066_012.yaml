@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加法假如二平方與一平方多四根相加問該若干答曰三平方多四根法以二平方與一平方相加得三平方是為三平方多四根此單位相加之法也假如三平方多四根與二平方多三根相加問該若干答曰五平方多七根法以三平方與二平方相加得五平方以四根與三根相加得七根是為五平方多七根合問
+  hash: sha256:b223bef820888396fd06825b2100843fa57e388bfcb07770fff8183f2b1bd2c4
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:34d1501ccaccd2d2d7d6e295d0dc7e1faded6ce3c08273dd1e767e62de293be6

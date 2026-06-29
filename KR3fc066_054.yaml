@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 深及繩長若干答曰井深一丈零二寸繩長四丈八寸法借二十四根為繩長數兩分毋相乘數取其四分之一得六根則井深即為六根又取其六分之一得四根則井深又為四根多三尺四寸此二數為相等各減四根餘二根與三尺四寸相等二根既與三尺四寸相等則一根必與一尺七寸相等而二十四根必與四丈八寸相等即繩長也相等即用法也其用甚廣今舉二則以例餘
+  hash: sha256:0add10cbe12012df738c6614ccad4c85f9354110e7be1180404f1365f0405761
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:7c48e25af0066841a1debada141e6d33b5e968c422d207dda06309aa30cf7fdf

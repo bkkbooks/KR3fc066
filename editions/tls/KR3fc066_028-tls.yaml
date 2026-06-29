@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc066/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法以四立方內減二立方餘二立方以六平方內減三平方多三根餘三平方少三根蓋根位旣空故平方內減多三根是爲平方內少三根若平方內減少三根則爲平方內多三根也是爲二立方多三平方少三根合問此相減位分不同之法也凡相減兩數位分不同須各按位列號中設空補足位分始不相淆
+  hash: sha256:6883a1a7e5519a69be905d90e4475fb437631962a9f999082d6970413efdebc8
+metadata:
+  title: 借根方法淺說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc066.xml
+hash: sha256:f4eac9ad9a1da8c08fdacf1858a4f8af605f5ac818d04e1b7e2a58a410977cf9
