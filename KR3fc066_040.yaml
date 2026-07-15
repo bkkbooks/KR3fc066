@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 四乘方相併是爲八四乘方少十二立方少二平方多四根多二眞數是也合問此相乘位分不同之法也凡相乘兩數位分不同須各按位列號中設空補足位分始不相淆
-  hash: sha256:3f6034bbdda9d6881be93a4df21b2bd9bba7dc43493266bae611e7fcd61ee08e
+  text: 四乘方相併是為八四乘方少十二立方少二平方多四根多二真數是也合問此相乘位分不同之法也凡相乘兩數位分不同須各按位列號中設空補足位分始不相淆
+  hash: sha256:239bd9d8035e427adc9741c33dec404cf9a13a1181a81817e6dc743fdc679c6d
 metadata:
   title: 借根方法淺說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc066.xml
-hash: sha256:64e395ddaebd64e5c4b342ffd4dcabe98d1853475c5f0373c9d247cb146ad8f3
+hash: sha256:369a4f4cdfdb2b66efc0dd553d377349c178e91f03530123bf7f019745c68439

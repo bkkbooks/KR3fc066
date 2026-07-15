@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 疏其例輒以鄙意取加減乘除四端冠以用號綴以定位表縷析條分各撮其要歸於淺顯説取易明庶學者不致眯目或亦啟蒙之一助也夫南豐劉衡
-  hash: sha256:b0c0039ec07f3d1bb20b29c1f0fa7058c998e3f193f1a2c50b78f0812c344246
+  text: 疏其例輒以鄙意取加減乘除四端冠以用號綴以定位表縷析條分各撮其要歸於淺顯説取易明庶學者不致眯目或亦啓蒙之一助也夫南豐劉衡
+  hash: sha256:d896f08fa371991f439187de2bc42e696d3c84ebdaa485f5a68eb73e31209ef5
 metadata:
   title: 借根方法淺說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc066.xml
-hash: sha256:0d4c6f0e3f819f3ae07d394f5b234be020c4f9e34f24f3ca044af80b06aa5c24
+hash: sha256:ca3361baf772bf715f2df0631503ac1341dfc8af2bf532eaecad5fbdeb10547a
